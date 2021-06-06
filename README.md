@@ -1,7 +1,7 @@
 max.term ELIZA engine
 =====================
 
-Use the eliza engine in your chat bots for (`max.term`)[https://www.npmjs.com/package/max.term].
+Use the eliza engine in your chat bots for [`max.term`](https://www.npmjs.com/package/max.term).
 
 Install
 -------
